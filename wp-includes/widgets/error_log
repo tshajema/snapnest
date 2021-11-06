@@ -1,0 +1,84 @@
+[08-Aug-2021 03:19:30 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home2/snapnest/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/snapnest/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[09-Aug-2021 11:01:07 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home2/snapnest/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/snapnest/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[10-Aug-2021 19:56:37 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home2/snapnest/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/snapnest/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Aug-2021 21:39:23 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home2/snapnest/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/snapnest/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[19-Aug-2021 10:54:38 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home2/snapnest/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/snapnest/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[31-Aug-2021 09:15:08 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home2/snapnest/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/snapnest/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[12-Sep-2021 23:57:24 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home2/snapnest/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/snapnest/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[14-Sep-2021 06:46:34 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home2/snapnest/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/snapnest/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[14-Sep-2021 07:24:44 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home2/snapnest/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/snapnest/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Sep-2021 09:49:23 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home2/snapnest/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/snapnest/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[23-Sep-2021 14:13:58 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home2/snapnest/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/snapnest/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[03-Oct-2021 02:45:56 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home2/snapnest/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/snapnest/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[06-Oct-2021 20:25:14 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home2/snapnest/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/snapnest/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[08-Oct-2021 01:53:30 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home2/snapnest/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/snapnest/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[11-Oct-2021 06:06:27 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home2/snapnest/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/snapnest/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[15-Oct-2021 11:01:19 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home2/snapnest/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/snapnest/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[29-Oct-2021 03:27:51 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home2/snapnest/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/snapnest/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[02-Nov-2021 14:29:55 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home2/snapnest/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/snapnest/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[02-Nov-2021 16:41:33 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home2/snapnest/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/snapnest/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[02-Nov-2021 17:47:04 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home2/snapnest/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/snapnest/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[04-Nov-2021 18:38:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home2/snapnest/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/snapnest/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
